@@ -1,0 +1,6 @@
+{
+  "name": "Yaqeen Health",
+  "description": "Yaqeen Allah Workforce Health AI — multi-tenant occupational health intelligence, early-warning heat and fatigue engine, worker check-ins, and population health analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
